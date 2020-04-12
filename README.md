@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------
 
 ## Deskripsi Praktek :
-* Applikasi Simple ini Menunjukan Lebih Dalam Tentang Arsitektur Redux, Menggunakan Redux Store dan Kemudian Membuat Action Creator dan Menginplementasikan Dalam Metode Autentikasi Google OAuth, GET, PUT, EDIT, DELETE API Menggunakan Redux Form, Menggunakan REST Conventions, Realtime Broadcasting, dan Menjalankan RTMP Server (Real Time Messaging Protocol)  
+* Applikasi Simple ini Menunjukan Lebih Dalam Tentang Arsitektur Redux, Menggunakan Redux Store dan Kemudian Membuat Action Creator dan Menginplementasikan Dalam Metode Autentikasi Google OAuth, GET, PUT, EDIT, DELETE API Menggunakan Redux Form, Menggunakan REST Conventions, Realtime Broadcasting dan Stream Vidio.
 ini adalah Praktek Terbaik Untuk Menggunakan Redux.
 
 -----------------------------------------------------------------------------------------------------------
