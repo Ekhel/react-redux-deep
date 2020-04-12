@@ -1,4 +1,4 @@
-![Flickr](https://live.staticflickr.com/65535/49699875306_d9f82bedca_k.jpg)
+![Flickr](https://live.staticflickr.com/65535/49756424827_a7a5c21b3c_b.jpg)
 
 <p align="center">
     <h3>Praktek React + Redux dengan OAuth Google </h3>
